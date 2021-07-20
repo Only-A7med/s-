@@ -1,0 +1,42 @@
+HOW TO RUN ON DIFFERENT OPERATING SYSTEMS:
+
+If you cannot launch the Steam (.exe) version of Epic Battle Fantasy 5 for whatever reason, a Flash version (.swf) is included.
+Run the Windows, Mac or Linux Flashplayer, and use it to open "Epic Battle Fantasy.swf".
+Alternatively, you may also be able to open "Epic Battle Fantasy.swf" in a web browser, or even on a mobile device that can run Flash content.
+
+The Flash version is exactly the same as the Steam version, but Steam features will not work, including: 
+achievements, cloud saving, the exit button, and different fullscreen resolutions.
+
+You can use the save backup feature to transfer save data between the two versions.
+
+---
+
+NPC MAKER:
+
+There's a bonus game-dev tool included. You can open "NPC maker.swf" with Flashplayer, and make your own NPCs.
+
+---
+
+ABOUT THE SAVING SYSTEM:
+
+EBF5 uses .meow files to save your data. These are found in the installation folder, and Steam Cloud should sync these between machines.
+You can also use the save backup system to easily transfer saves to other machines, or other versions of the game. 
+These backup files include your achivements.
+
+---
+
+ABOUT PERFORMANCE:
+
+The hardware requirements for this game are higher than would be expected.
+It mainly uses the CPU to render vector graphics - lowering the resolution and anti-aliasing will make a huge difference.
+Disabling idle animations and screen shake will also make a big difference.
+If your native resolution is higher than 1080p, I strongly recommend changing it to something smaller, before using the "Best Fit" fullscreen mode.
+
+The game should run on pretty much any hardware, but possibly very slowly.
+
+---
+
+MISC:
+
+There's some goodies in the "wallpapers" folder.
+
